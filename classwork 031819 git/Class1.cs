@@ -8,5 +8,9 @@ namespace classwork_031819_git
 {
     public class Class1
     {
+        public void doSomething()
+        {
+            Console.WriteLine("hello");
+        }
     }
 }
